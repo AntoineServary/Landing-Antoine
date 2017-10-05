@@ -20,7 +20,7 @@ body{
   font-weight: bolder;
   font-size: 40px;
 }
-  
+
 
 h1 {
   font-family: 'Geo', sans-serif;
@@ -58,7 +58,7 @@ img {
 
 
 
-#pic2{ 
+#pic2{
   background-image: src="Alienvinyl.png";
   border-radius: 50%;
   text-align: center;
@@ -69,12 +69,12 @@ img {
 }
 
 #form-wufoo{
-  padding: 20px;
+  padding: 50px;
 }
 
 #footer {
   background-color: black;
   margin-left: 2s0px;
+  text-align: center;
+
 }
-
-
